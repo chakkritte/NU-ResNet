@@ -6,7 +6,7 @@ This implements training of NU-ResNet from [NU-ResNet: Deep Residual Networks fo
 
 NU-ResNet for **non-commercial research/educational** use.
 
-Please cite Deep NU-ResNet in your publications if it helps your research:
+Please cite NU-ResNet in your publications if it helps your research:
 
 ( Thai ) NU-ResNet อนุญาตให้ใช้เฉพาะเพื่อการ**ศึกษาและวิจัยเท่านั้น ห้ามนำไปใช้เชิงการค้าทุกรูปแบบ**
 
