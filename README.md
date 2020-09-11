@@ -21,11 +21,3 @@ Please cite NU-ResNet in your publications if it helps your research:
       pages={29--33},
       year={2018}
     }
-
-## Donate
-
-![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/pic.png)
-
- (Bitcoin Address) : 3DermWyouJQ5MwoNvEtv2SgnvFRMTDBudv
- 
- (Ethereum Address) : 0x88B563F2A4b0C6F2Cd30a75911Fc5edA73b20Ad2
